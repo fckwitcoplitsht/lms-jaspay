@@ -118,3 +118,4 @@ CREATE TABLE IF NOT EXISTS Transaction_Log (
 );
 
 -- Darius the NIGGA
+-- Patrick the nigggs

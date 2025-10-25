@@ -116,3 +116,5 @@ CREATE TABLE IF NOT EXISTS Transaction_Log (
     details     TEXT,
     FOREIGN KEY (user_id) REFERENCES Login_Info(user_id)
 );
+
+-- Darius the NIGGA
